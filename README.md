@@ -1,3 +1,0 @@
-#venta
-
-venta de cosas 
